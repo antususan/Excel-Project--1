@@ -58,7 +58,8 @@ So I compared with the each ages with purchased bike column ,it is clear that cu
 >**#Step -6 Act**
 
 >Based on the insight received from the dashboards I can recommend the stakesholders to which kind of marketing suits most to each buyers
-> My Recommendation to stakeholders
+
+> My Recommendation to stakeholders is :-
 
 >Create interesting bike ads that focus on each region and target an average salary for both married or single female and male with bachelor's education degrees.
 
