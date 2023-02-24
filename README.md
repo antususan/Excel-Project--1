@@ -10,19 +10,21 @@ In this project I did data cleaning, data analysis, data insight, and data visua
 >Start the data analysis framework
 
 >**#Step- 1 ASK**
+
 >The first part is mainly to define the problem domain by asking related stakeholders on the file.
  
 >Question : Does variable in the sheet have a connection that leads to bike purchasing ?
 
 >**#Step -2 PREPARE**
->Prepare mainly for organize, identify and understand given data.
+
+>This step mainly for organize, identify and understand given data.
 >1. It is a third party data 
 >2. It contains qualitative(nominal data) and quantitative(discrete data)
 >3. This is a Long data type - data in which each row is a one-time point per subject, so each subject will have data in multiple rows.
 
 >**#Step -3 Process**
->In this step mainly clean the data and define what kind of error the data contains
->After define the types of data issues, then begin with data cleaning.
+
+>This step mainly clean the data and define what kind of error the data contains.After define the types of data issues, then begin with data cleaning.
 
 >1. Make a copy from the original sheet
 >2. Removed Duplicate data
@@ -32,7 +34,8 @@ In this project I did data cleaning, data analysis, data insight, and data visua
 >6. Repalced 10+ miles as More than 10+ in Commute Distance
 
 >**#Step -4 Analyze**
- >Analyzing is a step to finding any insightful data from data.Based on that purposes,I had to create a pivot table to simplify the work.
+
+ >This is a step to finding any insightful data from data.Based on that purposes,I had to create a pivot table to simplify the work.
 
  >1. Find a relation between the Gender and their income for Purchased Bike column 
 
@@ -49,10 +52,13 @@ In this project I did data cleaning, data analysis, data insight, and data visua
 So I compared with the each ages with purchased bike column ,it is clear that customers with age between 31 to 54 -Middle age buy more bikes 
 
 >**#Step -5 Share**
+
 >I created an interactive dashboard in excel using charts ,which I created from each pivot tables by Marital status,Region and Education 
 
 >**#Step -6 Act**
+
 >Based on the insight received from the dashboards I can recommend the stakesholders to which kind of marketing suits most to each buyers
+> My Recommendation to stakeholders
 
 >Create interesting bike ads that focus on each region and target an average salary for both married or single female and male with bachelor's education degrees.
 
